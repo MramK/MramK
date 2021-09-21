@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MramK
+- 👋 Hi, I’m Mram
 - 👀 I’m interested in NLP, Summarization, Arabic language, language models.
 
 
